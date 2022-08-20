@@ -1,28 +1,30 @@
 {
-  "showGettingStartedBanner": false,
+  "showGettingStartedBanner": true,
   "hasMigratedDailyNoteSettings": false,
   "hasMigratedWeeklyNoteSettings": false,
   "daily": {
     "format": "",
-    "template": "",
-    "folder": "Self/daily",
+    "template": "templates/okr/Daily.md",
+    "folder": "notes/retrospect/daily",
     "enabled": true
   },
   "weekly": {
     "format": "",
-    "template": "",
-    "folder": "Self/daily",
-    "enabled": false
+    "template": "templates/okr/Weekly Review.md",
+    "folder": "notes/retrospect/weekly",
+    "enabled": true
   },
   "monthly": {
     "format": "",
-    "template": "",
-    "folder": ""
+    "template": "templates/okr/Monthly Review.md",
+    "folder": "notes/retrospect/monthly",
+    "enabled": true
   },
   "quarterly": {
     "format": "",
     "template": "",
-    "folder": ""
+    "folder": "",
+    "enabled": false
   },
   "yearly": {
     "format": "",

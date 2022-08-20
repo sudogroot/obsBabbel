@@ -7,12 +7,8 @@
         "id": "2872e612517912bb",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "README.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -77,8 +73,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -94,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,24 +110,43 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
+            }
+          },
+          {
+            "id": "b66a8f21ca4d56ad",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "ff2dcbd5e3c7d7cd",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "2872e612517912bb",
+  "active": "0b0db21e4dd874e7",
   "lastOpenFiles": [
-    "Self/TODOs.md",
-    "README.md",
-    "Self/daily/2022-08-20.md",
-    "2022-08-20.md",
-    "Self/OKR.md"
+    "notes/retrospect/weekly/2022-W28.md",
+    "templates/okr/Weekly Review.md",
+    "notes/retrospect/daily/2022-08-07.md",
+    "notes/retrospect/monthly/a.md",
+    "notes/retrospect/weekly/2022-W33.md",
+    "templates/okr/Daily.md",
+    "notes/retrospect/daily/2022-08-15.md",
+    "notes/retrospect/daily/2022-08-08.md",
+    "notes/retrospect/weekly/2022-W34.md",
+    "templates/okr/Monthly Review.md"
   ]
 }
