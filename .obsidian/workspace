@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/okr/Goals.md",
+            "file": "notes/okr/daily/2022-08-21.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/okr/Goals.md",
+                "file": "notes/okr/daily/2022-08-21.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/okr/Goals.md",
+                "file": "notes/okr/daily/2022-08-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/okr/Goals.md"
+                "file": "notes/okr/daily/2022-08-21.md"
               }
             }
           },
@@ -146,15 +146,15 @@
   },
   "active": "328964bcff63183e",
   "lastOpenFiles": [
+    "notes/okr/weekly/2022-W35.md",
+    "notes/okr/daily/2022-08-21.md",
     "notes/okr/daily/2022-08-20.md",
     "notes/okr/Goals.md",
+    "notes/okr/goals Details/Arabic courses.md",
     "notes/Obsidian Improvment/Improvment Ideas.md",
     "templates/okr/Daily.md",
     "templates/okr/Weekly Review.md",
     "templates/okr/Monthly Review.md",
-    "notes/retrospect/daily/2022-08-20.md",
-    "notes/retrospect/daily/2022-08-02.md",
-    "notes/uncategorized/Tasks.md",
-    "templates/okr/Core Principes.md"
+    "notes/retrospect/daily/2022-08-20.md"
   ]
 }

@@ -4,10 +4,10 @@
 
 # Defined Goals
 
+- [ ]  Arabic Courses https://ibnmalekar.com/  (3 years goal)
 
 # Planned Goals
 
-- [ ]  Arabic Courses
 - [ ]  Cloud courses
 - [ ]  Invoice App
 
