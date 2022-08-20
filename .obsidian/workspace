@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "2872e612517912bb",
+        "id": "328964bcff63183e",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "notes/okr/Goals.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "notes/okr/Goals.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "notes/okr/Goals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "notes/okr/Goals.md"
+              }
             }
           },
           {
@@ -136,17 +144,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "0b0db21e4dd874e7",
+  "active": "328964bcff63183e",
   "lastOpenFiles": [
-    "notes/retrospect/weekly/2022-W28.md",
-    "templates/okr/Weekly Review.md",
-    "notes/retrospect/daily/2022-08-07.md",
-    "notes/retrospect/monthly/a.md",
-    "notes/retrospect/weekly/2022-W33.md",
+    "notes/okr/daily/2022-08-20.md",
+    "notes/okr/Goals.md",
+    "notes/Obsidian Improvment/Improvment Ideas.md",
     "templates/okr/Daily.md",
-    "notes/retrospect/daily/2022-08-15.md",
-    "notes/retrospect/daily/2022-08-08.md",
-    "notes/retrospect/weekly/2022-W34.md",
-    "templates/okr/Monthly Review.md"
+    "templates/okr/Weekly Review.md",
+    "templates/okr/Monthly Review.md",
+    "notes/retrospect/daily/2022-08-20.md",
+    "notes/retrospect/daily/2022-08-02.md",
+    "notes/uncategorized/Tasks.md",
+    "templates/okr/Core Principes.md"
   ]
 }

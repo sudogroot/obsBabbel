@@ -15,15 +15,15 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "notes/retrospect/daily",
+      "folder": "notes/okr/daily",
       "template": "templates/okr/Daily.md"
     },
     {
-      "folder": "notes/retrospect/monthly",
+      "folder": "notes/okr/monthly",
       "template": "templates/okr/Monthly Review.md"
     },
     {
-      "folder": "notes/retrospect/weekly",
+      "folder": "notes/okr/weekly",
       "template": "templates/okr/Weekly Review.md"
     }
   ],

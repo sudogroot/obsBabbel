@@ -5,19 +5,19 @@
   "daily": {
     "format": "",
     "template": "templates/okr/Daily.md",
-    "folder": "notes/retrospect/daily",
+    "folder": "notes/okr/daily",
     "enabled": true
   },
   "weekly": {
     "format": "",
     "template": "templates/okr/Weekly Review.md",
-    "folder": "notes/retrospect/weekly",
+    "folder": "notes/okr/weekly",
     "enabled": true
   },
   "monthly": {
     "format": "",
     "template": "templates/okr/Monthly Review.md",
-    "folder": "notes/retrospect/monthly",
+    "folder": "notes/okr/monthly",
     "enabled": true
   },
   "quarterly": {

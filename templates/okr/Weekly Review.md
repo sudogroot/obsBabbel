@@ -26,7 +26,7 @@
 
 Keep these things in mind as you do this week's review:
 
-![[notes/retrospect/monthly/{{date:YYYY}}-{{date:MM}}#This month]]
+![[notes/okr/monthly/{{date:YYYY}}-{{date:MM}}#This month]]
 
 ## Last week
 
