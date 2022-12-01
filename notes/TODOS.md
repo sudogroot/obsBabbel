@@ -1,0 +1,23 @@
+- [ ]   Checkout long-term goals and discussion ( create a plan for them) crate technical document
+- [ ]   Organize Google notes and todos
+- [ ]   Create Plan on how to save sprint retrospect and team member/self-feedback
+- [ ]   backup code for passwords
+- [ ]   — rollBar monitoring what are the next steps
+- [ ]   — Change rollbar package to reduce bundle size if the rollbar is updated check out the old conversation
+- [ ]   — checkout again client monitoring CHeckout new error and check out the document
+- [ ]   — CheckIgnore is not working correctly 
+- [ ]   Create a filter for an email
+- [ ]   ————————
+- [ ]   Browser version support (checkout slack messages)
+- [ ]   Checkout rollbar again for cleaning
+- [ ]   Create a Ticket for web browse support
+- [ ]   setup Obsidian
+- [ ]   Checkout long-term planning
+- [ ]   Checkout leapsome and create action point from review
+- [ ]   create a document. for career shift and plan a meeting with akancha and Mati
+- [ ]   Go though tasks and make them clear for you and for the team
+- [ ]   Originally intended for developers, Gherkin is **a structured approach to writing behavioral tests, also called Behavior Driven Development (BDD)**.
+- [ ]   Defining iteration was not cleare
+- [ ]   Try to get How thing already working  document that understand it.
+- [ ]   Checkout partial hydration to improve  pricing loading
+- [ ]   loading third party script using workservice (party somthing library)
